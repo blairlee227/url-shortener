@@ -1,4 +1,4 @@
-# picsee-project
+# url-shortener
 
 > A Vue.js project
 
